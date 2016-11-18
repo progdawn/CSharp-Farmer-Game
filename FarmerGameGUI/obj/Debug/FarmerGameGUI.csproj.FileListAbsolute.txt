@@ -1,0 +1,9 @@
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe.config
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.pdb
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csprojResolveAssemblyReference.cache
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.foxChickenGrain.resources
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.Properties.Resources.resources
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.GenerateResource.Cache
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.exe
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.pdb
